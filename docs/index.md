@@ -5,6 +5,8 @@ title: Home
 
 # My GitHub Pages site
 
+![Write the Docs logo](../images/sticker-wtd-colors.png)
+
 This page was created from the tutorial in the [mapzen/write-the-docs repository](https://github.com/mapzen/write-the-docs) at the Write the Docs SF meeting.
 
 ## General workflow for making a website with GitHub Pages
